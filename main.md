@@ -8,3 +8,5 @@ pandoc-latex-environment:
   squarebox: [squarebox]
   roundedbox: [roundedbox]
 ---
+
+This is some text
